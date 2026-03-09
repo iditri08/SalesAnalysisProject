@@ -1,0 +1,4 @@
+pandas
+pymysql
+sqlalchemy
+psycopg2 #if postgresql used
